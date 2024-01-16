@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>About Us</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="about-website">
+<img style="width:100%;" src="https://advocatenahid.in/wp-content/uploads/2023/09/advocate-nahid-website.jpg" alt="Advocate Nahid">
+
+</div>
+  
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <h3><strong>About Advocate Nahid</strong></h3>
+      <p style="text-aligm:justify;">Advocate Nahid has Working experience in District Court of Ghaziabad Uttar Pradesh & District Court of Karkardooma New Delhi.</p>
+<p style="text-aligm:justify;">Advocate Nahid has qualified successfully ALL INDIA BAR EXAMINATION.</p>
+<p style="text-aligm:justify;">In educational background Advocate Nahid having Degree of M.A. & LL.B from C.C.S. University.</p>
+<h3><strong>OUR SERVICES</strong></h3>
+
+<ol>
+<li>Family Law</li>
+<li>Domestic Violence</li>
+<li>Dowry Case Law</li>
+<li>Marriage Registration</li>
+<li>Court Marriage Law</li>
+<li>Child Custody Law</li>
+<li>Property Law</li>
+<li>Drunk and Drive Case</li>
+</ol>
+
+<i><strong>Advocate Nahid is a professional lawyer with expertise in Civil & Criminal.</strong></i><br/>
+<i><strong><a href="http://advocatenahid.in/" target="_blank">www.advocatenahid.in</strong></i><br/><br/>
+    </div>
+
+  </div>
+</div>
+
+</body>
+</html>
