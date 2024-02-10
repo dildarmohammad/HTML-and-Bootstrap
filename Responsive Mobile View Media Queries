@@ -1,7 +1,18 @@
-/* Mobile Devices */
+/* Media Query for Mobile Devices */
 @media screen and (max-width: 480px) {}
 
-@media (min-width: 600px) and (max-width: 768px) {}
+ /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {}
 
- /* Small Devices, Tablets */  
-@media only screen and (min-width : 768px) {}
+/* iPhone XR */
+@media only screen 
+    and (device-width : 414px) 
+    and (device-height : 896px) 
+    and (-webkit-device-pixel-ratio : 2) 
+{}
+
+/* 1170×2532 pixels at 460ppi For iPhone 12, iPhone 12 Pro, iPhone 13, iPhone 13 Pro, and iPhone 14*/
+@media only screen 
+    and (width: 390px) 
+    and (height: 844px) 
+    and (-webkit-device-pixel-ratio: 3) {}
