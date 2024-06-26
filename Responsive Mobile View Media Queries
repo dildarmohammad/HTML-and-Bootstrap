@@ -11,6 +11,9 @@
     and (-webkit-device-pixel-ratio : 2) 
 {}
 
+/*iphone 14 pro max */
+@media only screen and (min-height: 932px) {}
+
 /* 1170×2532 pixels at 460ppi For iPhone 12, iPhone 12 Pro, iPhone 13, iPhone 13 Pro, and iPhone 14*/
 @media only screen 
     and (width: 390px) 
@@ -106,5 +109,8 @@
 @media  screen and (max-width: 1920px) {
     /* insert styles here */
 }
+@media(max-width:1024px) and (min-width:920px){}
 
-@media only screen and (min-device-width: 1800px) and (max-device-width: 1920px){}
+@media (max-width: 1366px) {}
+
+@media(max-width:1920px) and (min-width:1800px){}
